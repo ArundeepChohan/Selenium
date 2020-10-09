@@ -1,0 +1,7 @@
+File -> New -> Other -> Spring Starter Project
+->Cd to the new project enter mvn eclipse:eclipse ->
+->mvn test -> Enter and type numbers in -> Spring should show up.
+->Right click project and hit Maven update.
+
+Or get one from https://start.spring.io/
+File > Import > Existing Maven Project
