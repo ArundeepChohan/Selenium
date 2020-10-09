@@ -1,0 +1,7 @@
+File -> New -> Other -> Maven -> Maven Project -> Next-> Next-> 
+org.apache.maven.archetypes maven.archetypes.quickstart ->Next ->
+Change Artifact Id to Maven project name.
+Add dependancies in pom.xml by grabbing it from internet.
+Right click project folder and hit Maven-> Update Project.
+Change all Java files to end with *Test.java
+Right click project folder and click properties and add M2_REPO in module path in Libraries.

@@ -1,0 +1,16 @@
+cd C:\Users\arund\eclipse-workspace
+mvn archetype:generate
+Choose a number or apply filter (format: [groupId:]artifactId, case sensitive contains): 1471: 1471
+Choose a number: 8: 8
+Define value for property 'groupId': org.com.learningMavenCommand
+Define value for property 'artifactId': SeleniumTutorials
+Define value for property 'version' 1.0-SNAPSHOT: : 1
+Define value for property 'package' org.com.learningMavenCommand: :
+ Y: : y
+cd SeleniumTutorials
+mvn eclipse:eclipse
+File -> Open projects from file scrolls to SeleniumTutorials
+Create a Java class ending in Test in src/test/java
+Add the browser drivers
+mvn eclipse:eclispe
+mvn test
