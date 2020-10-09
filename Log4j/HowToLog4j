@@ -1,0 +1,4 @@
+Right click on project folder.hit properties, go to libraries and add external jar to classpath.
+C:\log4j-1.2.17\apache-log4j-1.2.17\log4j-1.2.17.jar 
+Set up log4j.properties in src folder
+Use this:  logger = Logger.getLogger("devpinoyLogger");
