@@ -1,0 +1,12 @@
+2020-02-19 14:47:43 - Published root WebApplicationContext as ServletContext attribute with name [org.springframework.web.context.WebApplicationContext.ROOT]
+2020-02-19 14:47:43 - Root WebApplicationContext: initialization completed in 2449 ms
+2020-02-19 14:47:43 - ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2020-02-19 14:47:44 - 6 mappings in 'requestMappingHandlerMapping'
+2020-02-19 14:47:44 - Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2020-02-19 14:47:44 - ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2020-02-19 14:48:21 - Refreshing org.springframework.web.context.support.GenericWebApplicationContext@33fe57a9
+2020-02-19 14:48:25 - ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2020-02-19 14:48:26 - 6 mappings in 'requestMappingHandlerMapping'
+2020-02-19 14:48:26 - Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2020-02-19 14:48:26 - ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2020-02-19 14:48:27 - Closing org.springframework.web.context.support.GenericWebApplicationContext@33fe57a9, started on Wed Feb 19 14:48:21 PST 2020

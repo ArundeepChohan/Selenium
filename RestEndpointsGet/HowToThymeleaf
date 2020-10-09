@@ -1,0 +1,7 @@
+Add dependancies:
+<dependency>
+<groupId>org.springframework.boot</groupId>
+<artifactId>spring-boot-starter-thymeleaf</artifactId>
+</dependency>
+Add index.html to src->main->resources->templates
+Add controller to src->main->java->controller name

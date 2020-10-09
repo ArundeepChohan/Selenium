@@ -1,0 +1,37 @@
+spring:
+   profiles: 
+     active: dev
+     
+     
+---
+spring:
+   profiles: dev
+   
+server:
+  port: 9092
+  
+default:
+ course:
+   name:  7
+   chapterCount: French
+   
+course:
+   name:  8
+   chapterCount: Math
+   
+   
+---
+spring:
+   profiles: qa
+   
+server:
+  port: 9091
+  
+default:
+ course:
+   name:  6
+   chapterCount: Art
+   
+course:
+   name:  5
+   chapterCount: Science

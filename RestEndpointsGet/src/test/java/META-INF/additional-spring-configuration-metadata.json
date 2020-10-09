@@ -1,0 +1,32 @@
+{"properties": [
+  {
+    "name": "default.course.chapterCount",
+    "type": "java.lang.String",
+    "description": "A description for 'default.course.chapterCount'"
+  },
+  {
+    "name": "course.chapterCount",
+    "type": "java.lang.String",
+    "description": "A description for 'course.chapterCount'"
+  },
+  {
+    "name": "course.name",
+    "type": "java.lang.String",
+    "description": "A description for 'course.name'"
+  },
+  {
+    "name": "default.course.name",
+    "type": "java.lang.String",
+    "description": "A description for 'default.course.name'"
+  },
+  {
+    "name": "default.course.chapterCount",
+    "type": "java.lang.String",
+    "description": "A description for 'default.course.chapterCount'"
+  },
+  {
+    "name": "default.course.chapterCount",
+    "type": "java.lang.String",
+    "description": "A description for 'default.course.chapterCount'"
+  }
+]}

@@ -1,0 +1,101 @@
+2020-02-19 13:07:37.334  INFO 14316 --- [main] R.RestEndpointsGetApplication            : Starting RestEndpointsGetApplication on DESKTOP-4O939LH with PID 14316 (C:\Users\arund\eclipse-workspace\RestEndpointsGet\target\classes started by arund in C:\Users\arund\eclipse-workspace\RestEndpointsGet)
+2020-02-19 13:07:37.341  INFO 14316 --- [main] R.RestEndpointsGetApplication            : The following profiles are active: dev
+2020-02-19 13:07:39.078  INFO 14316 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 9092 (http)
+2020-02-19 13:07:39.101  INFO 14316 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-02-19 13:07:39.104  INFO 14316 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.30]
+2020-02-19 13:07:39.301  INFO 14316 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-02-19 13:07:39.302 DEBUG 14316 --- [main] o.s.web.context.ContextLoader            : Published root WebApplicationContext as ServletContext attribute with name [org.springframework.web.context.WebApplicationContext.ROOT]
+2020-02-19 13:07:39.303  INFO 14316 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1830 ms
+2020-02-19 13:07:39.923  INFO 14316 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-19 13:07:39.958 DEBUG 14316 --- [main] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2020-02-19 13:07:40.108 DEBUG 14316 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : 6 mappings in 'requestMappingHandlerMapping'
+2020-02-19 13:07:40.166 DEBUG 14316 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2020-02-19 13:07:40.179 DEBUG 14316 --- [main] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2020-02-19 13:07:40.326  INFO 14316 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 9092 (http) with context path ''
+2020-02-19 13:07:40.331  INFO 14316 --- [main] R.RestEndpointsGetApplication            : Started RestEndpointsGetApplication in 4.118 seconds (JVM running for 5.896)
+2020-02-19 13:10:09.516  INFO 14316 --- [RMI TCP Connection(4)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2020-02-19 13:10:09.521  INFO 14316 --- [RMI TCP Connection(4)-127.0.0.1] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-02-19 13:12:41.521  INFO 16712 --- [main] R.RestEndpointsGetApplication            : Starting RestEndpointsGetApplication on DESKTOP-4O939LH with PID 16712 (C:\Users\arund\eclipse-workspace\RestEndpointsGet\target\classes started by arund in C:\Users\arund\eclipse-workspace\RestEndpointsGet)
+2020-02-19 13:12:41.528  INFO 16712 --- [main] R.RestEndpointsGetApplication            : The following profiles are active: dev
+2020-02-19 13:12:43.319  INFO 16712 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 9092 (http)
+2020-02-19 13:12:43.342  INFO 16712 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-02-19 13:12:43.343  INFO 16712 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.30]
+2020-02-19 13:12:43.546  INFO 16712 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-02-19 13:12:43.547 DEBUG 16712 --- [main] o.s.web.context.ContextLoader            : Published root WebApplicationContext as ServletContext attribute with name [org.springframework.web.context.WebApplicationContext.ROOT]
+2020-02-19 13:12:43.548  INFO 16712 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1936 ms
+2020-02-19 13:12:43.902  INFO 16712 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-19 13:12:43.923 DEBUG 16712 --- [main] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2020-02-19 13:12:44.026 DEBUG 16712 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : 6 mappings in 'requestMappingHandlerMapping'
+2020-02-19 13:12:44.085 DEBUG 16712 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2020-02-19 13:12:44.133 DEBUG 16712 --- [main] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2020-02-19 13:12:44.375  INFO 16712 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 9092 (http) with context path ''
+2020-02-19 13:12:44.389  INFO 16712 --- [main] R.RestEndpointsGetApplication            : Started RestEndpointsGetApplication in 3.745 seconds (JVM running for 5.515)
+2020-02-19 13:12:50.587  INFO 16712 --- [RMI TCP Connection(3)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2020-02-19 13:12:50.592  INFO 16712 --- [RMI TCP Connection(3)-127.0.0.1] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-02-19 13:15:49.734  INFO 12752 --- [main] R.RestEndpointsGetApplicationTests       : Starting RestEndpointsGetApplicationTests on DESKTOP-4O939LH with PID 12752 (started by arund in C:\Users\arund\eclipse-workspace\RestEndpointsGet)
+2020-02-19 13:15:49.738  INFO 12752 --- [main] R.RestEndpointsGetApplicationTests       : The following profiles are active: dev
+2020-02-19 13:15:49.882 DEBUG 12752 --- [main] o.s.w.c.s.GenericWebApplicationContext   : Refreshing org.springframework.web.context.support.GenericWebApplicationContext@1921ad94
+2020-02-19 13:15:54.255  INFO 12752 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-19 13:15:54.321 DEBUG 12752 --- [main] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2020-02-19 13:15:54.540 DEBUG 12752 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : 6 mappings in 'requestMappingHandlerMapping'
+2020-02-19 13:15:54.743 DEBUG 12752 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2020-02-19 13:15:54.805 DEBUG 12752 --- [main] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2020-02-19 13:15:55.235  INFO 12752 --- [main] R.RestEndpointsGetApplicationTests       : Started RestEndpointsGetApplicationTests in 7.183 seconds (JVM running for 10.191)
+2020-02-19 13:15:56.047 DEBUG 12752 --- [SpringContextShutdownHook] o.s.w.c.s.GenericWebApplicationContext   : Closing org.springframework.web.context.support.GenericWebApplicationContext@1921ad94, started on Wed Feb 19 13:15:49 PST 2020
+2020-02-19 13:15:56.053  INFO 12752 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-02-19 13:43:19.529  INFO 14664 --- [main] R.RestEndpointsGetApplication            : Starting RestEndpointsGetApplication on DESKTOP-4O939LH with PID 14664 (C:\Users\arund\eclipse-workspace\RestEndpointsGet\target\classes started by arund in C:\Users\arund\eclipse-workspace\RestEndpointsGet)
+2020-02-19 13:43:19.535  INFO 14664 --- [main] R.RestEndpointsGetApplication            : The following profiles are active: dev
+2020-02-19 13:43:21.549  INFO 14664 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 9092 (http)
+2020-02-19 13:43:21.568  INFO 14664 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-02-19 13:43:21.570  INFO 14664 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.30]
+2020-02-19 13:43:21.769  INFO 14664 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-02-19 13:43:21.769 DEBUG 14664 --- [main] o.s.web.context.ContextLoader            : Published root WebApplicationContext as ServletContext attribute with name [org.springframework.web.context.WebApplicationContext.ROOT]
+2020-02-19 13:43:21.770  INFO 14664 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 2088 ms
+2020-02-19 13:43:22.100  INFO 14664 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-19 13:43:22.120 DEBUG 14664 --- [main] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2020-02-19 13:43:22.225 DEBUG 14664 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : 6 mappings in 'requestMappingHandlerMapping'
+2020-02-19 13:43:22.268 DEBUG 14664 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2020-02-19 13:43:22.300 DEBUG 14664 --- [main] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2020-02-19 13:43:22.454  INFO 14664 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 9092 (http) with context path ''
+2020-02-19 13:43:22.462  INFO 14664 --- [main] R.RestEndpointsGetApplication            : Started RestEndpointsGetApplication in 4.036 seconds (JVM running for 5.977)
+2020-02-19 13:44:57.298  INFO 14664 --- [RMI TCP Connection(4)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2020-02-19 13:44:57.305  INFO 14664 --- [RMI TCP Connection(4)-127.0.0.1] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-02-19 13:45:02,371 INFO  [main] RestEndpointsGet.RestEndpointsGetApplication : Starting RestEndpointsGetApplication on DESKTOP-4O939LH with PID 10500 (C:\Users\arund\eclipse-workspace\RestEndpointsGet\target\classes started by arund in C:\Users\arund\eclipse-workspace\RestEndpointsGet)
+2020-02-19 13:45:02,389 INFO  [main] RestEndpointsGet.RestEndpointsGetApplication : The following profiles are active: dev
+2020-02-19 13:45:04,519 INFO  [main] org.springframework.boot.web.embedded.tomcat.TomcatWebServer : Tomcat initialized with port(s): 9092 (http)
+2020-02-19 13:45:04,541 INFO  [main] org.apache.catalina.core.StandardService : Starting service [Tomcat]
+2020-02-19 13:45:04,543 INFO  [main] org.apache.catalina.core.StandardEngine : Starting Servlet engine: [Apache Tomcat/9.0.30]
+2020-02-19 13:45:04,771 INFO  [main] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] : Initializing Spring embedded WebApplicationContext
+2020-02-19 13:45:04,772 DEBUG [main] org.springframework.web.context.ContextLoader : Published root WebApplicationContext as ServletContext attribute with name [org.springframework.web.context.WebApplicationContext.ROOT]
+2020-02-19 13:45:04,772 INFO  [main] org.springframework.web.context.ContextLoader : Root WebApplicationContext: initialization completed in 2263 ms
+2020-02-19 13:45:05,111 INFO  [main] org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor : Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-19 13:45:05,131 DEBUG [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2020-02-19 13:45:05,248 DEBUG [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping : 6 mappings in 'requestMappingHandlerMapping'
+2020-02-19 13:45:05,308 DEBUG [main] org.springframework.web.servlet.handler.SimpleUrlHandlerMapping : Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2020-02-19 13:45:05,321 DEBUG [main] org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2020-02-19 13:45:05,485 INFO  [main] org.springframework.boot.web.embedded.tomcat.TomcatWebServer : Tomcat started on port(s): 9092 (http) with context path ''
+2020-02-19 13:45:05,491 INFO  [main] RestEndpointsGet.RestEndpointsGetApplication : Started RestEndpointsGetApplication in 4.023 seconds (JVM running for 5.94)
+2020-02-19 13:45:22,744 INFO  [RMI TCP Connection(3)-127.0.0.1] org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2020-02-19 13:45:22,751 INFO  [RMI TCP Connection(3)-127.0.0.1] org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-02-19 13:56:47,826 INFO  [main] RestEndpointsGet.RestEndpointsGetApplicationTests : Starting RestEndpointsGetApplicationTests on DESKTOP-4O939LH with PID 15468 (started by arund in C:\Users\arund\eclipse-workspace\RestEndpointsGet)
+2020-02-19 13:56:47,831 INFO  [main] RestEndpointsGet.RestEndpointsGetApplicationTests : The following profiles are active: dev
+2020-02-19 13:56:47,940 DEBUG [main] org.springframework.web.context.support.GenericWebApplicationContext : Refreshing org.springframework.web.context.support.GenericWebApplicationContext@40db2a24
+2020-02-19 13:56:52,009 INFO  [main] org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor : Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-19 13:56:52,089 DEBUG [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2020-02-19 13:56:52,441 DEBUG [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping : 6 mappings in 'requestMappingHandlerMapping'
+2020-02-19 13:56:52,672 DEBUG [main] org.springframework.web.servlet.handler.SimpleUrlHandlerMapping : Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2020-02-19 13:56:52,720 DEBUG [main] org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2020-02-19 13:56:53,053 INFO  [main] RestEndpointsGet.RestEndpointsGetApplicationTests : Started RestEndpointsGetApplicationTests in 6.727 seconds (JVM running for 9.89)
+2020-02-19 13:56:53,831 DEBUG [SpringContextShutdownHook] org.springframework.web.context.support.GenericWebApplicationContext : Closing org.springframework.web.context.support.GenericWebApplicationContext@40db2a24, started on Wed Feb 19 13:56:47 PST 2020
+2020-02-19 13:56:53,839 INFO  [SpringContextShutdownHook] org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-02-19 14:58:58,621 INFO  [main] RestEndpointsGet.RestEndpointsGetApplicationTests : Starting RestEndpointsGetApplicationTests on DESKTOP-4O939LH with PID 10952 (started by arund in C:\Users\arund\eclipse-workspace\RestEndpointsGet)
+2020-02-19 14:58:58,629 INFO  [main] RestEndpointsGet.RestEndpointsGetApplicationTests : The following profiles are active: dev
+2020-02-19 14:58:58,788 DEBUG [main] org.springframework.web.context.support.GenericWebApplicationContext : Refreshing org.springframework.web.context.support.GenericWebApplicationContext@40db2a24
+2020-02-19 14:59:03,119 INFO  [main] org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor : Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-19 14:59:03,211 DEBUG [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2020-02-19 14:59:03,615 DEBUG [main] org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping : 6 mappings in 'requestMappingHandlerMapping'
+2020-02-19 14:59:03,927 DEBUG [main] org.springframework.web.servlet.handler.SimpleUrlHandlerMapping : Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+2020-02-19 14:59:04,003 DEBUG [main] org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+2020-02-19 14:59:04,458 INFO  [main] RestEndpointsGet.RestEndpointsGetApplicationTests : Started RestEndpointsGetApplicationTests in 7.748 seconds (JVM running for 11.282)
+2020-02-19 14:59:05,093 DEBUG [SpringContextShutdownHook] org.springframework.web.context.support.GenericWebApplicationContext : Closing org.springframework.web.context.support.GenericWebApplicationContext@40db2a24, started on Wed Feb 19 14:58:58 PST 2020
+2020-02-19 14:59:05,099 INFO  [SpringContextShutdownHook] org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor : Shutting down ExecutorService 'applicationTaskExecutor'

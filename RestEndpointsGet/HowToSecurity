@@ -1,0 +1,16 @@
+Add dependancies:
+<dependency>
+<groupId>org.springframework.boot</groupId>
+<artifactId>spring-boot-starter-security</artifactId>
+</dependency>
+Create new Java file:
+Add:
+@Configuration
+@EnableWebSecurity
+extends WebSecurityConfigurerAdapter
+@Override
+protected void configure(AuthenticationManagerBuilder auth) throws exception{
+auth.inMemoryAuthentication().withUser(username:"user").password("password").roles("USER")
+.and()
+.withUser(username:"admin").password("admin").roles("ADMIN");
+}

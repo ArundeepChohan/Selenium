@@ -1,0 +1,11 @@
+Create Spring Boot
+Add <dependency>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-web</artifactId>
+    </dependency>
+Hit Maven Update
+Set up src/main/java
+Hit pom.xml run as mvn test
+Run the SpringApplication.run(RestEndpointsGetApplication.class, args) as Spring Boot app.
+Go to Postman.
+http://Localhost:8080/ whatever you put as Request Mapping.

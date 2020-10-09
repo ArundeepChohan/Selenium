@@ -1,0 +1,7 @@
+Create a Class course with variables chapterCount, setters, getters.
+default.course.chapterCount = 8, in application.prop which is in src/main/java
+@RestController
+public class -{
+	@Value("${course.name}")
+	private String cname;
+}

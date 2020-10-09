@@ -1,0 +1,8 @@
+Add to application.prop in resources:
+logging.level.org.springframework.web=DEBUG
+logging.level.com.example.logbacklogging=INFO
+logging.file.name=Logbacklogging.log
+
+Or set up logback.xml in resources
+
+Delete one file and run Maven install.
