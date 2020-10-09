@@ -1,0 +1,14 @@
+Change packaging to war
+Add to pom.xml:
+	<dependency>
+		<groupId>org.springframework.boot</groupId>
+		<artifactId>spring-boot-starter-tomcat</artifactId>
+		<scope>provided</scope>
+		</dependency>
+Add to src/main/java file:
+public class ExternalWarApplication extends SpringBootServletInitializer
+@Override
+	protected SpringApplicationBuilder configure(SpringApplicationBuilder builder) {
+		return super.configure(builder);
+	}
+Pom.xml Run as Maven Install and it should have a link.
