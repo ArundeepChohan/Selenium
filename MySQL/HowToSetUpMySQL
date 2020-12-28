@@ -1,0 +1,6 @@
+Create New Java Project
+Right click on Project and click properties
+Add MySQL jar, Selenium jar files and everything in lib
+Create new Java file.
+Open up MySQL workbench.
+Run Java
